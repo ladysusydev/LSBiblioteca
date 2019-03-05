@@ -1,0 +1,4 @@
+ERROR : [2018/11/11 20:59:38] - Error number:1054
+Error: Unknown column 's.state' in 'where clause'
+File: /LSBiblioteca/index.php
+

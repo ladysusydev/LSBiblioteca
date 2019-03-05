@@ -1,0 +1,28 @@
+ERROR : [2018/11/09 16:03:43] - Error number:1146
+Error: Table 'biblioteca.ls_persona' doesn't exist
+File: /LSBiblioteca/index.php
+
+ERROR : [2018/11/09 16:04:39] - Error number:1146
+Error: Table 'biblioteca.ls_persona' doesn't exist
+File: /LSBiblioteca/index.php
+
+ERROR : [2018/11/09 16:24:27] - Error number:1054
+Error: Unknown column 'a.tx_description' in 'field list'
+File: /LSBiblioteca/index.php
+
+ERROR : [2018/11/09 16:24:31] - Error number:1054
+Error: Unknown column 'a.tx_description' in 'field list'
+File: /LSBiblioteca/index.php
+
+ERROR : [2018/11/09 16:24:33] - Error number:1054
+Error: Unknown column 'a.tx_description' in 'field list'
+File: /LSBiblioteca/index.php
+
+ERROR : [2018/11/09 16:25:51] - Error number:1054
+Error: Unknown column 'u.id_users' in 'on clause'
+File: /LSBiblioteca/index.php
+
+ERROR : [2018/11/09 16:25:52] - Error number:1054
+Error: Unknown column 'u.id_users' in 'on clause'
+File: /LSBiblioteca/index.php
+

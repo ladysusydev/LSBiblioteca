@@ -1,0 +1,24 @@
+ERROR : [2018/11/18 15:53:13] - Error number:1146
+Error: Table 'biblioteca.auditoria' doesn't exist
+File: /LSBiblioteca/index.php
+
+ERROR : [2018/11/18 16:03:30] - Error number:1146
+Error: Table 'biblioteca.auditoria' doesn't exist
+File: /LSBiblioteca/index.php
+
+ERROR : [2018/11/18 16:05:10] - Error number:1146
+Error: Table 'biblioteca.auditoria' doesn't exist
+File: /LSBiblioteca/index.php
+
+ERROR : [2018/11/18 16:26:53] - Error number:1146
+Error: Table 'biblioteca.auditoria' doesn't exist
+File: /LSBiblioteca/index.php
+
+ERROR : [2018/11/18 16:39:11] - Error number:1452
+Error: Cannot add or update a child row: a foreign key constraint fails (`biblioteca`.`ls_audit`, CONSTRAINT `ls_audit_ibfk_1` FOREIGN KEY (`id_users`) REFERENCES `ls_users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+File: /LSBiblioteca/index.php
+
+ERROR : [2018/11/18 16:40:55] - Error number:1452
+Error: Cannot add or update a child row: a foreign key constraint fails (`biblioteca`.`ls_audit`, CONSTRAINT `ls_audit_ibfk_1` FOREIGN KEY (`id_users`) REFERENCES `ls_users` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+File: /LSBiblioteca/index.php
+
